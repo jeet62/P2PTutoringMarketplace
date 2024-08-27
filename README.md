@@ -1,7 +1,8 @@
-# P2PTutoringMarketplace
 # P2P Tutoring Marketplace
 
 ## Vision
+![Screenshot 2024-08-27 154146](https://github.com/user-attachments/assets/c70f0305-73f0-4d46-83bd-34ee213df4aa)
+
 The P2P Tutoring Marketplace is a decentralized platform designed to connect tutors and learners directly, leveraging blockchain technology for secure and transparent interactions. Our vision is to empower individuals with the ability to easily find and engage with qualified tutors while ensuring fair and efficient transactions through smart contracts.
 
 ## Flowchart
