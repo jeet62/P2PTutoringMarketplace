@@ -1,7 +1,8 @@
 # P2P Tutoring Marketplace
 
-## Vision
 ![Screenshot 2024-08-27 154146](https://github.com/user-attachments/assets/c70f0305-73f0-4d46-83bd-34ee213df4aa)
+
+## Vision
 
 The P2P Tutoring Marketplace is a decentralized platform designed to connect tutors and learners directly, leveraging blockchain technology for secure and transparent interactions. Our vision is to empower individuals with the ability to easily find and engage with qualified tutors while ensuring fair and efficient transactions through smart contracts.
 
@@ -66,6 +67,8 @@ The smart contract for the P2P Tutoring Marketplace is deployed on the Ethereum 
 ```
 0x41400f284b58b2e6e445b993e4210736675b5d99
 ```
+![Screenshot_27-8-2024_155012_opencampus-codex blockscout com](https://github.com/user-attachments/assets/c4b2df0f-6af6-466b-ad70-00ed631c92e6)
+
 Please confirm this address on a blockchain explorer before engaging with it.
 
 ## Future Scope
