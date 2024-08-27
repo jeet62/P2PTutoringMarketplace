@@ -5,7 +5,50 @@
 The P2P Tutoring Marketplace is a decentralized platform designed to connect tutors and learners directly, leveraging blockchain technology for secure and transparent interactions. Our vision is to empower individuals with the ability to easily find and engage with qualified tutors while ensuring fair and efficient transactions through smart contracts.
 
 ## Flowchart
-![Flowchart](link_to_flowchart_image)
+![Flowchart](+-----------------+
+| User Registration |
++-----------------+
+         |
+         v
++-----------------+
+|  Profile Setup  |
++-----------------+
+         |
+         v
++-----------------+
+| Search & Match  |
++-----------------+
+         |
+         v
++-----------------+
+| Session Booking |
++-----------------+
+         |
+         v
++-----------------------------+
+| Smart Contract Interaction |
++-----------------------------+
+         |
+         v
++-----------------+
+| Session Execution |
++-----------------+
+         |
+         v
++---------------------+
+| Feedback & Ratings |
++---------------------+
+         |
+         v
++---------------------+
+| Dispute Resolution  |
++---------------------+
+         |
+         v
+       +-----+
+       | End |
+       +-----+
+)
 
 **Flowchart Overview:**
 1. **User Registration**: Users (tutors and learners) create accounts.
